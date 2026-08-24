@@ -72,14 +72,14 @@ fun_fact: "Led a 20-person team by day, shipped code by night 🌙"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=synthwave&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sujoymodak231&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujoymodak231&layout=compact&theme=synthwave&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=synthwave&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujoymodak231&theme=synthwave&hide_border=true" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujoymodak231&theme=react-dark&hide_border=true" width="95%"/>
 
 </div>
 
@@ -89,7 +89,7 @@ fun_fact: "Led a 20-person team by day, shipped code by night 🌙"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujoymodak231&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -100,9 +100,9 @@ fun_fact: "Led a 20-person team by day, shipped code by night 🌙"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujoymodak231/sujoymodak231/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujoymodak231/sujoymodak231/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/sujoymodak231/sujoymodak231/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -113,7 +113,7 @@ fun_fact: "Led a 20-person team by day, shipped code by night 🌙"
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=00C896&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=sujoymodak231&style=for-the-badge&color=00C896&label=PROFILE+VIEWS"/>
 
 ### 💬 Always up for talking automation, pipelines, or Docker
 
